@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UnknownBytePattern_ReplaceAll": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\boring\\Desktop\\text.txt\""
+    }
+  }
+}
